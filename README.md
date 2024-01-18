@@ -16,4 +16,23 @@ This project aims to classify toxic comments into different categories using mac
    ```bash
    git clone https://github.com/your-username/toxic-comments-classification.git
    cd toxic-comments-classification
+   ```
 
+2. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Execute the main script:**
+
+   ```bash
+   python main.py
+   ```
+
+## Dependencies
+
+- Python 3.x
+- pandas
+- scikit-learn
+- numpy
