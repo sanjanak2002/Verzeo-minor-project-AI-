@@ -14,8 +14,8 @@ This project aims to classify toxic comments into different categories using mac
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/toxic-comments-classification.git
-   cd toxic-comments-classification
+   git clone https://github.com/sanjanak2002/Verzeo-minor-project-AI-.git
+   cd Verzeo-minor-project-AI-
    ```
 
 2. **Install dependencies:**
